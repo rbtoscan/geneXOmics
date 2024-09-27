@@ -1,0 +1,7 @@
+paths:
+  seq_path: "/storage-matrix/projects/loka/remote_sequencer"
+  aws_bucket: "/storage-matrix/projects/loka/aws_bucket/sequencers"
+  ready_for_demux: "/storage-matrix/projects/loka/aws_bucket/ready_for_demux"
+  demux_output: "/storage-matrix/projects/loka/aws_bucket/demux"
+  fastqs_copied: "/storage-matrix/projects/loka/aws_bucket/fastqs"
+  multi_config_file: "/storage-matrix/projects/loka/aws_bucket/fastqs"

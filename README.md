@@ -144,15 +144,16 @@ aws_bucket/
 
 # If the RTAComplete.txt file exists, copies flowcell from geneXomics to AWS infrastructure.
 # This script should be executed as a cron job so that it can constantly check for newly sequenced flowcells present in geneXOmics' sequencing facility
-python 0_copy.py
+python 0_copy.py # this should take less than a minute
+
 
 
 # This part of the pipelines performs the demultiplexing of the BCL files into fastq files if the copy of the BCL files was succesfully done
-snakemake --snakefile 1_demux.snakefile
+snakemake --snakefile 1_demux.snakefile # this should take less than a minute
 
 
 # This part of the pipeline performs the analysis of the fastq files utilizing cellranger multi if the fastqs are present in their designated folder
-snakemake --snakefile 2_analysis.snakefile
+snakemake --snakefile 2_analysis.snakefile # this takes around 2 hours with 30 cores
 
 ```
 
