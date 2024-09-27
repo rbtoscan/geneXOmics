@@ -1,0 +1,53 @@
+Category,Library Type,Grouped By,Group Name,Metric Name,Metric Value
+Cells,CRISPR Guide Capture,,,Cells,"7,597"
+Cells,CRISPR Guide Capture,,,Cells with one or more protospacers detected,90.92%
+Cells,CRISPR Guide Capture,,,Cells with two or more protospacers detected,37.90%
+Cells,CRISPR Guide Capture,,,Fraction guide reads,88.68%
+Cells,CRISPR Guide Capture,,,Fraction protospacer not recognized,9.30%
+Cells,CRISPR Guide Capture,,,Fraction reads with putative protospacer sequence,97.78%
+Cells,CRISPR Guide Capture,,,Guide reads in cells,95.07%
+Cells,CRISPR Guide Capture,,,Mean guide reads usable per cell,"4,176"
+Cells,CRISPR Guide Capture,,,Median UMI counts per cell,"1,646"
+Cells,CRISPR Guide Capture,,,Number of reads from cells associated with this sample,"35,826,877"
+Cells,Gene Expression,,,Cells,"7,597"
+Cells,Gene Expression,,,Confidently mapped reads in cells,97.66%
+Cells,Gene Expression,,,Mean reads per cell,"41,259"
+Cells,Gene Expression,,,Median UMI counts per cell,"23,153"
+Cells,Gene Expression,,,Median genes per cell,"5,731"
+Cells,Gene Expression,,,Total genes detected,"29,065"
+Library,CRISPR Guide Capture,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_crispr,Number of reads,"38,299,080"
+Library,CRISPR Guide Capture,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_crispr,Number of short reads skipped,0
+Library,CRISPR Guide Capture,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_crispr,Q30 RNA read,95.8%
+Library,CRISPR Guide Capture,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_crispr,Q30 UMI,94.1%
+Library,CRISPR Guide Capture,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_crispr,Q30 barcodes,95.8%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Estimated number of cells,"7,597"
+Library,CRISPR Guide Capture,Physical library ID,crispr,Fraction guide reads,88.65%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Fraction guide reads usable,82.84%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Fraction protospacer not recognized,9.30%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Fraction reads with putative protospacer sequence,97.74%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Guide reads in cells,95.07%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Mean reads per cell,"5,041"
+Library,CRISPR Guide Capture,Physical library ID,crispr,Number of reads,"38,299,080"
+Library,CRISPR Guide Capture,Physical library ID,crispr,Sequencing saturation,44.10%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Valid UMIs,99.99%
+Library,CRISPR Guide Capture,Physical library ID,crispr,Valid barcodes,98.41%
+Library,Gene Expression,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_gex,Number of reads,"347,082,562"
+Library,Gene Expression,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_gex,Number of short reads skipped,0
+Library,Gene Expression,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_gex,Q30 RNA read,89.7%
+Library,Gene Expression,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_gex,Q30 UMI,93.6%
+Library,Gene Expression,Fastq ID,10k_K562sl_5pv2_nextgem_CRISPR_Chromium_X_gex,Q30 barcodes,94.5%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped antisense,7.57%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped reads in cells,97.66%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped to exonic regions,74.86%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped to genome,87.79%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped to intergenic regions,3.99%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped to intronic regions,8.95%
+Library,Gene Expression,Physical library ID,gex,Confidently mapped to transcriptome,75.59%
+Library,Gene Expression,Physical library ID,gex,Estimated number of cells,"7,597"
+Library,Gene Expression,Physical library ID,gex,Mapped to genome,94.02%
+Library,Gene Expression,Physical library ID,gex,Mean reads per cell,"45,687"
+Library,Gene Expression,Physical library ID,gex,Number of reads,"347,082,562"
+Library,Gene Expression,Physical library ID,gex,Number of reads in the library,"347,082,562"
+Library,Gene Expression,Physical library ID,gex,Sequencing saturation,26.97%
+Library,Gene Expression,Physical library ID,gex,Valid UMIs,99.83%
+Library,Gene Expression,Physical library ID,gex,Valid barcodes,94.25%
