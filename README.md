@@ -1,5 +1,7 @@
 # geneXOmics
- 
+
+![loka](https://github.com/user-attachments/assets/5976dd7a-cb1b-4fc5-a433-84fe0744682b)
+
 
 
 ## Instructions for installing dependencies
